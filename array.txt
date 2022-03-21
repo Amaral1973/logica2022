@@ -1,0 +1,5 @@
+Array
+(
+    [nome] => José
+    [idade] => 22
+)
